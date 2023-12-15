@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+body {
+    background: linear-gradient(#B6BBC4 0%, #2B2A4C 40%, #161A30 100%);    
+    font-family: sans-serif
+}
+
+.profileImage {
+    width: 200px;
+    
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px;
+}
+
+.profile h2 {
+    color: white;
+}
+
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+
+.biodata {
+    background: linear-gradient(#ffffff 0%, #ffffffb5 40%, #ffffff00 100%);   
+    padding-bottom: 200px;
+    
+}
+
+.achievment {
+    padding-top: 90px;
+}
+
+.biodata {
+    padding-top: 90px;
+}
+
+.contact {
+    padding-top: 0px;
+}
+.footer {
+    background-color: #FFF;
+    padding-bottom: 20px;
+}
+
+.contact a{
+    color: black;
+    font-size: 30px;
+}
+
+.credit {
+    padding-top: 30px;
+}
+
+.navbar-brand {
+    font-family: 'Ephesis', cursive;
+    font-size: 40px;
+}
+
+.buttnx {
+    padding-top: -200px;
+}
